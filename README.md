@@ -44,7 +44,7 @@ Edit
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/url-shortener.git
+   git clone https://github.com/ALOKHere/url-shortener.git
    cd url-shortener
 Create and activate a virtual environment:
 
